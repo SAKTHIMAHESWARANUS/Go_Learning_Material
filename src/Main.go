@@ -3,15 +3,18 @@ package main
 import (
 	"fmt"
 )
+
 var a string = "32.90"
-const(
-	 value = 32;
-	 value1= 34;
+
+const (
+	value  = 32
+	value1 = 34
 )
+
 func main() {
 	// var a bool = true ;
-	var va = (value1);
-	fmt.Printf("%T",va);
+	var va = (value1)
+	fmt.Printf("%T", va)
 }
 
 // %v is value
