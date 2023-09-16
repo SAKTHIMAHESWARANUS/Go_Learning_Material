@@ -14,6 +14,7 @@ func main() {
 	} else {
 		fmt.Println("Hello")
 	}
+	fmt.Println("if-else")
 
 	/* Nested If
 	if(a){
